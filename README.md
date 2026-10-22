@@ -15,7 +15,7 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 Visionary AI Researcher and Generative AI Engineer focused on designing and deploying end-to-end LLM and RAG systems.
 
